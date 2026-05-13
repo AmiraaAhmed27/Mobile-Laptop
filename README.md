@@ -33,8 +33,8 @@ The dashboard provides insights into:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](![Uploading Screenshot 2026-04-17 003444.png…]()
-)
+![Dashboard Preview]([https://raw.githubusercontent.com/username/repo/main/dashboard.png](https://github.com/AmiraaAhmed27/Mobile-Laptop/blob/main/Screenshot%20.png))
+
 
 ---
 
