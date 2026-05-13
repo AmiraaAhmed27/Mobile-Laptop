@@ -33,7 +33,7 @@ The dashboard provides insights into:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](https://raw.githubusercontent.com/AmiraaAhmed27/Mobile-Laptop/main/Screenshot.png)
+![Dashboard Preview](https://github.com/AmiraaAhmed27/Mobile-Laptop/blob/main/Screenshot%20.png)
 ---
 
 ## 🎯 Features
